@@ -15,7 +15,7 @@ function HomepageHeader() {
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div style={{ display: 'flex', justifyContent: 'center' }}>
-          <ul className="pills">
+          <ul className="pills margin-bottom--none">
             <a style={{color: 'white'}} href='https://github.com/mathbalduino' target='_blank'><li className="pills__item">GitHub</li></a>
             <a style={{color: 'white'}} href='https://instagram.com/mathbalduino' target='_blank'><li className="pills__item">Instagram</li></a>
             <a style={{color: 'white'}} href='https://twitter.com/mathbalduino' target='_blank'><li className="pills__item">Twitter</li></a>
