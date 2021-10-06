@@ -4,15 +4,15 @@
         <title>Matheus Leonel Balduino Blog</title>
         <link>https://mathbalduino.com.br/blog</link>
         <description>Matheus Leonel Balduino Blog</description>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[First Blog Post]]></title>
-            <link>https://mathbalduino.com.br/blog/first</link>
-            <guid>first</guid>
-            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
+            <title><![CDATA[The Beginning]]></title>
+            <link>https://mathbalduino.com.br/blog/the-beginning</link>
+            <guid>the-beginning</guid>
+            <pubDate>Wed, 06 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[So, this year I decided to start exposing the work I've been doing over the last few years, to the internet. Hope you like]]></description>
         </item>
     </channel>
 </rss>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmathbalduino=self.webpackChunkmathbalduino||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"The Beginning","permalink":"/blog/the-beginning"}]}')}}]);
