@@ -29,7 +29,7 @@ function Hello() {
         <div className="container">
           <div style={{ textAlign: 'center' }}>
             <h2>Hey, be welcome!</h2>
-            <p className='margin-bottom--none'>I'm an independent software developer. I like to create stuff, that's it</p>
+            <p className='margin-bottom--none'>I'm an independent software developer that likes to create stuff, that's it</p>
             <p className='margin-bottom--none'>Born in 1997 ({calculateAge(new Date(1997, 1, 28), new Date())}yo), in Blumenau/SC (Brasil)</p>
             <p className='margin-bottom--none'>Started my career at 15yo, with an introductory programming course, and since then I have continued in the field</p>
             <p className='margin-bottom--none'>Feel free to contact-me!</p>
