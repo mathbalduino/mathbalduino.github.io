@@ -4,14 +4,14 @@ import Layout from '@theme/Layout';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
-import Link from '@docusaurus/Link';
 
-function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+export const MyHeader = () => {
+  const { siteConfig } = useDocusaurusContext();
+
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <img style={{ marginBottom: 20, borderRadius: 150 }} src="https://dummyimage.com/300x300/8c8c8c/000000&text=Foto+perfil"/>
+        <img style={{ marginBottom: 20, borderRadius: 150, width: 300 }} src="img/me.jpg"/>
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div style={{ display: 'flex', justifyContent: 'center' }}>
@@ -27,12 +27,11 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
       title={'@mathbalduino'}
-      description="Personal website">
-      <HomepageHeader />
+      description="Software Developer">
+      <MyHeader />
       <main>
         <HomepageFeatures />
         <hr style={{ maxWidth: '60%', margin: 'auto' }} />
