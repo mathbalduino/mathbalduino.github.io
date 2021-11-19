@@ -11,9 +11,9 @@ const CardList = [
   },
   {
     title: 'go-codegen',
-    description: <>Coming soon<br />...</>,
-    link: undefined,
-    gocovToken: '',
+    description: 'Set of functions/methods that will ease GO code generation',
+    link: 'mathbalduino.com.br/go-codegen',
+    gocovToken: 'EUF064OND3',
   },
   {
     title: 'go-test',

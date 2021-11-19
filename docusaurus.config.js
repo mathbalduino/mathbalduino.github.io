@@ -61,6 +61,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 label: 'go-log',
                 href: 'https://mathbalduino.com.br/go-log',
               },
+              {
+                label: 'go-codegen',
+                href: 'https://mathbalduino.com.br/go-codegen',
+              },
             ],
           },
           {
@@ -73,10 +77,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               {
                 label: 'Instagram',
                 href: 'https://instagram.com/mathbalduino',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/mathbalduino',
               },
             ],
           },
