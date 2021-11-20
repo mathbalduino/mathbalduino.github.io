@@ -44,14 +44,14 @@ export default function Home() {
         }}>
           <div className="container">
             <div className='row'>
-              <div className="col col--6" style={{ textAlign: 'center', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+              <div className="col col--6 margin-vert--sm" style={{ textAlign: 'center', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
                 <h2>Blog</h2>
                 <p>Sometimes I write blog posts about software development and technology in general. Feel free to read my posts!</p>
                 <a style={{ maxWidth: 300 }} className={`button button--secondary button--block`} href={'/blog'}>
                   Go to /blog
                 </a>
               </div>
-              <div className="col col--6" style={{ textAlign: 'center', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+              <div className="col col--6 margin-vert--sm" style={{ textAlign: 'center', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
                 <h2>About</h2>
                 <p>If you want to know who I am, where I live, what's my education, etc, you can see my About page</p>
                 <a style={{ maxWidth: 300 }} className={`button button--secondary button--block`} href={'/about'}>
