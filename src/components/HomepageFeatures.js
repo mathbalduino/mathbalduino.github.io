@@ -53,8 +53,8 @@ function Card({link, title, description, gocovToken}) {
             {!!gocovToken
               ? (
               <>
-                <Link to={`https://github.com/mathbalduino/${title}/actions/workflows/go.yml`}>
-                  <img src={`https://github.com/mathbalduino/${title}/actions/workflows/go.yml/badge.svg?branch=main`} />
+                <Link to={`https://github.com/mathbalduino/${title}/actions/workflows/ci.yml`}>
+                  <img src={`https://github.com/mathbalduino/${title}/actions/workflows/ci.yml/badge.svg?branch=main`} />
                 </Link>
                 &nbsp; &nbsp;
                 <Link to={`https://codecov.io/gh/mathbalduino/${title}`}>
@@ -64,7 +64,7 @@ function Card({link, title, description, gocovToken}) {
             )
             : (
               <>
-                <img src={`https://github.com/mathbalduino/go-log/actions/workflows/go.yml/badge.svg?branch=NONEXISTENTBRANCH`} />
+                <img src={`https://github.com/mathbalduino/go-log/actions/workflows/ci.yml/badge.svg?branch=NONEXISTENTBRANCH`} />
                 &nbsp; &nbsp;
                 <img src={`https://codecov.io/gh/mathbalduino/${title}/branch/main/graph/badge.svg?token=${gocovToken}`}/>
               </>
