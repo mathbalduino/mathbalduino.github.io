@@ -18,6 +18,7 @@ export const MyHeader = () => {
           <ul className="pills margin-bottom--none">
             <a style={{color: 'white'}} href='https://github.com/mathbalduino' target='_blank'><li className="pills__item">GitHub</li></a>
             <a style={{color: 'white'}} href='https://instagram.com/mathbalduino' target='_blank'><li className="pills__item">Instagram</li></a>
+            <a style={{color: 'white'}} href='https://linkedin.com/in/mathbalduino' target='_blank'><li className="pills__item">Linkedin</li></a>
 
             {/*<a style={{color: 'white'}} href='https://twitter.com/mathbalduino' target='_blank'><li className="pills__item">Twitter</li></a>*/}
           </ul>

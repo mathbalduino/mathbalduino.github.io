@@ -71,6 +71,7 @@ function Hello() {
                 <ul style={{listStyle: 'none', paddingLeft: 0}}>
                   <li><a href="https://github.com/mathbalduino" target="_blank">@mathbalduino</a> on GitHub</li>
                   <li><a href="https://instagram.com/mathbalduino" target="_blank">@mathbalduino</a> on Instagram</li>
+                  <li><a href="https://linkedin.com/in/mathbalduino" target="_blank">@mathbalduino</a> on Linkedin</li>
 
                   {/*<li><a href="https://twitter.com/mathbalduino" target="_blank">@mathbalduino</a> on Twitter</li>*/}
                   {/*<li><a href="https://youtube.com/c/mathbalduino" target="_blank">@mathbalduino</a> on YouTube</li>*/}
