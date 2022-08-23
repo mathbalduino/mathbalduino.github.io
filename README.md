@@ -27,7 +27,8 @@ This command generates static content into the `build` directory and can be serv
 ### Deployment
 
 ```
-$ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
+$ GIT_USER=<Your GitHub username> DEPLOYMENT_BRANCH=main USE_SSH=true yarn deploy
 ```
 
+Remember that you can change the deployment branch, if you want to
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
