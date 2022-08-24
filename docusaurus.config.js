@@ -78,6 +78,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 label: 'Instagram',
                 href: 'https://instagram.com/mathbalduino',
               },
+              {
+                label: 'Linkedin',
+                href: 'https://linkedin.com/in/mathbalduino',
+              },
             ],
           },
         ],
