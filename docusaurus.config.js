@@ -32,6 +32,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         },
       }),
     ],
+    [
+      '@docusaurus/preset-classic',
+      {
+        // Will be passed to @docusaurus/plugin-google-analytics.
+        googleAnalytics: {
+          trackingID: 'G-ZF2WPYY932',
+        },
+      },
+    ],
   ],
 
   themeConfig:
