@@ -19,7 +19,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     [
       '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      {
         docs: false,
         blog: {
           showReadingTime: true,
@@ -30,13 +30,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-      }),
-    ],
-    [
-      '@docusaurus/preset-classic',
-      {
-        // Will be passed to @docusaurus/plugin-google-analytics.
-        googleAnalytics: {
+        gtag: {
           trackingID: 'G-ZF2WPYY932',
         },
       },
