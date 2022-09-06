@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Matheus Leonel Balduino Blog</title>
         <link>https://mathbalduino.com.br/blog</link>
@@ -7,12 +7,22 @@
         <lastBuildDate>Wed, 06 Oct 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
         <item>
             <title><![CDATA[The Beginning]]></title>
             <link>https://mathbalduino.com.br/blog/the-beginning</link>
             <guid>the-beginning</guid>
             <pubDate>Wed, 06 Oct 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[So, this year I decided to start exposing the work I've been doing over the last few years, to the internet. Hope you like]]></description>
+            <content:encoded><![CDATA[<p>So, this year I decided to start exposing the work I've been doing over the last few years, to the internet. Hope you like
+it! This decision came after a relatively long period of isolation (hello pandemic!), and because I thought that this could be
+a very interesting way to show the world what I can really do. Yes, it's a little stressful for me when I'm showing a
+authoring work, but let me test myself!</p><p>From now on, I will use my social media networks and this site who speaks to you to showcase my authorship works (usually,
+under the index page). In addition, I'll be writing blog posts to talk about the decisions I made on my projects,
+some guides explaining how I achieved the results I got, programming tutorials and some opinion posts about things
+of my interest (usually about software development or tech-related stuff).</p><p>As you may have noticed, I'm not a native English speaker (surprise, surprise!). This blog will be a great opportunity to
+improve my english too, so if you notice any errors (of any kind), please let me know.</p><p>In the coming weeks, I'll be posting about how I made the infrastructure of my personal website, and project websites,
+in more detail (GitHub Pages, Custom domains and Docusaurus, basically).</p><p>See you soon!</p>]]></content:encoded>
         </item>
     </channel>
 </rss>

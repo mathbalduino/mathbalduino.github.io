@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmathbalduino=self.webpackChunkmathbalduino||[]).push([[481],{5745:function(u){u.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

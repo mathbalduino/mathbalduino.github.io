@@ -13,6 +13,15 @@
         <link href="https://mathbalduino.com.br/blog/the-beginning"/>
         <updated>2021-10-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[So, this year I decided to start exposing the work I've been doing over the last few years, to the internet. Hope you like]]></summary>
+        <content type="html"><![CDATA[<p>So, this year I decided to start exposing the work I've been doing over the last few years, to the internet. Hope you like
+it! This decision came after a relatively long period of isolation (hello pandemic!), and because I thought that this could be
+a very interesting way to show the world what I can really do. Yes, it's a little stressful for me when I'm showing a
+authoring work, but let me test myself!</p><p>From now on, I will use my social media networks and this site who speaks to you to showcase my authorship works (usually,
+under the index page). In addition, I'll be writing blog posts to talk about the decisions I made on my projects,
+some guides explaining how I achieved the results I got, programming tutorials and some opinion posts about things
+of my interest (usually about software development or tech-related stuff).</p><p>As you may have noticed, I'm not a native English speaker (surprise, surprise!). This blog will be a great opportunity to
+improve my english too, so if you notice any errors (of any kind), please let me know.</p><p>In the coming weeks, I'll be posting about how I made the infrastructure of my personal website, and project websites,
+in more detail (GitHub Pages, Custom domains and Docusaurus, basically).</p><p>See you soon!</p>]]></content>
         <author>
             <name>Matheus Leonel Balduino - @mathbalduino</name>
             <uri>/about</uri>
