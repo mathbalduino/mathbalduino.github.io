@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/catch-interview/static/css/main.d383dc24.css",
+    "main.js": "/catch-interview/static/js/main.ee2ce9bf.js",
+    "index.html": "/catch-interview/index.html",
+    "main.d383dc24.css.map": "/catch-interview/static/css/main.d383dc24.css.map",
+    "main.ee2ce9bf.js.map": "/catch-interview/static/js/main.ee2ce9bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d383dc24.css",
+    "static/js/main.ee2ce9bf.js"
+  ]
+}
