@@ -95,7 +95,7 @@ export default function HomepageFeatures() {
             <img src="img/sisyphus-logo.jpg" style={{ borderRadius: 250, position: 'absolute', boxShadow: '10px 10px 68px -26px rgb(0 0 0 / 75%)' }}/>
           </div>
           <div className="col col--6">
-            <div style={{ backgroundColor: 'var(--ifm-background-surface-color)', padding: 16, borderRadius: 16 }}>
+            <div className="card" style={{ padding: 16, borderRadius: 16 }}>
               <h1>Sisyphus</h1>
               <p>
                 Sisyphus is a fitness app (iOS/Android) that allows you to save detailed information about your workouts, in a completely anonymous manner.
@@ -127,6 +127,11 @@ export default function HomepageFeatures() {
 
                 Give it a try!
               </p>
+              <div style={{ display: 'flex', marginTop: 16 }}>
+                <a target="_blank" className="button button--secondary button--block " href="https://apps.apple.com/us/app/sisyphus-workout/id1663511426">iOS</a>
+                <div style={{ width: 32 }}></div>
+                <a target="_blank" className="button button--secondary button--block " href="https://play.google.com/store/apps/details?id=br.com.mathbalduino.sisyphus">Android</a>
+              </div>
             </div>
           </div>
         </div>
