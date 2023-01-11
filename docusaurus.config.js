@@ -95,5 +95,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      metadata: [
+        {property: 'og:image', content: 'https://mathbalduino.com.br/img/mathbalduino_logoM.png'},
+      ],
     }),
 });
